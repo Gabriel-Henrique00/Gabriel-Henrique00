@@ -13,14 +13,12 @@
 
 ![Neon Blink](https://readme-typing-svg.herokuapp.com?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=🔴+Veja+meus+projetos!+🔴)
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div align="center">
   <a href="https://github.com/Gabriel-Henrique00">
     <img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gabriel-Henrique00&show_icons=true&theme=radical&icon_color=FF0000"/>
     <img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabriel-Henrique00&layout=compact&langs_count=7&theme=radical&icon_color=FF0000"/>
   </a>
 </div>
-
-
 ---
 
 ## 🚀 Tecnologias & Ferramentas
