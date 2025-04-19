@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header&text=Bem%20Vindo!&fontSize=30&fontColor=FFFFFF"/>
 
 
 
@@ -10,9 +9,6 @@
 - 🌍 **Brasileiro | 20 anos**
 
 ---
-
-![Neon Blink](https://readme-typing-svg.herokuapp.com?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=🔴+Veja+meus+projetos!+🔴)
-
 <div align="center">
   <a href="https://github.com/Gabriel-Henrique00">
     <img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gabriel-Henrique00&show_icons=true&theme=radical&icon_color=FF0000"/>
@@ -53,5 +49,3 @@
 </div>
 
 ---
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
