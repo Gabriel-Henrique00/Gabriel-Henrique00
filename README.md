@@ -10,9 +10,11 @@
 
 ---
 <div align="center">
-  <a href="https://github.com/Gabriel-Henrique00">
-    <img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gabriel-Henrique00&show_icons=true&theme=radical&icon_color=FF0000"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabriel-Henrique00&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Henrique00&layout=compact&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Henrique00&show_icons=true&theme=radical&icon_color=FF0000" />
   </a>
 </div>
 
