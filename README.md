@@ -1,12 +1,11 @@
 
 
 
-## 🖐️ Olá Me chamo Gabriel!
+##  Olá Me chamo Gabriel!
 
-- 🎓 **Estudante de Engenharia de Software**
-- 💻 **Apaixonado por Desenvolvimento Full-Stack e Arquitetura de Software**
-- 🚀 **Atualmente em busca de estágio em Desenvolvimento de Software**
-- 🌍 **Brasileiro | 20 anos**
+-  **Estudante de Engenharia de Software**
+-  **Desenvolvimento Full-Stack e Arquitetura de Software**
+-  **Brasileiro | 20 anos**
 
 ---
 <div align="center">
@@ -20,23 +19,46 @@
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" width="50" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" width="50" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50" width="50" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50" width="50" alt="CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="50" width="50" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50" width="50" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="50" width="50" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="50" width="50" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="50" width="50" alt="Git"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" width="50" alt="Python"/><br>Python
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" width="50" alt="Java"/><br>Java
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50" width="50" alt="HTML"/><br>HTML
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50" width="50" alt="CSS"/><br>CSS
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="50" width="50" alt="JavaScript"/><br>JavaScript
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50" width="50" alt="React"/><br>React
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="50" width="50" alt="Node.js"/><br>Node.js
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="50" width="50" alt="PostgreSQL"/><br>PostgreSQL
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="50" width="50" alt="Git"/><br>Git
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
-## 📬 Contato
+##  Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-henrique00/" target="_blank">
