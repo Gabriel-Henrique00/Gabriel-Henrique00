@@ -1,64 +1,62 @@
 
 
+## Olá, me chamo Gabriel!
 
-##  Olá Me chamo Gabriel!
+Sou **Engenheiro de Software** com experiência em **Inteligência Artificial**, **APIs REST** e desenvolvimento de soluções de ponta a ponta. Construo sistemas com **IA generativa** e **machine learning**, com domínio de **SQL** e manipulação de dados para gerar insights e automação.
 
--  **Estudante de Engenharia de Software**
--  **Desenvolvimento Full-Stack e Arquitetura de Software**
--  **Brasileiro | 20 anos**
+Também tenho vivência no **mercado financeiro como Product Owner**, conectando áreas de negócio a entregas técnicas com autonomia. Minha base é sólida em **Python, Java, Spring Boot e TypeScript**, sempre aplicando **Clean Architecture, SOLID** e boas práticas de qualidade.
+
+- Bacharelado em Engenharia de Software · **IFSP** (2023 – 2026)
+- Brasileiro · Português (nativo) · Inglês (intermediário)
+- Portfólio: [gabriel-henrique.vercel.app](https://gabriel-henrique.vercel.app)
 
 ---
+
+## Tecnologias & Ferramentas
+
+**IA & Machine Learning**
+<br>
+<img src="https://skillicons.dev/icons?i=py,pytorch" />
+<br>
+`Ollama` `LangChain` `LLMs Open-Source` `pandas` `Automação Inteligente`
+
+**Back-End & APIs**
+<br>
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,django,nodejs,express" />
+<br>
+`REST` `JWT` `Microsserviços` `Hibernate`
+
+**Front-End & Mobile**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,flutter,dart,html,css" />
+
+**Dados & SQL**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+
+**Infraestrutura & Ferramentas**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,maven,postman,jest" />
+
+**Práticas & Gestão**
+<br>
+`Clean Architecture` `SOLID` `DDD` `TDD` `Scrum` `Jira` `Trello` `Documentação Técnica`
+
+---
+
+## Estatísticas do GitHub
+
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Henrique00&layout=compact&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Henrique00&show_icons=true&theme=radical&icon_color=FF0000" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Henrique00&show_icons=true&theme=radical&icon_color=FF0000&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Henrique00&layout=compact&theme=radical&hide_border=true" />
 </div>
 
----
-
-##  Tecnologias & Ferramentas
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" width="50" alt="Python"/><br>Python
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" width="50" alt="Java"/><br>Java
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50" width="50" alt="HTML"/><br>HTML
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50" width="50" alt="CSS"/><br>CSS
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="50" width="50" alt="JavaScript"/><br>JavaScript
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50" width="50" alt="React"/><br>React
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="50" width="50" alt="Node.js"/><br>Node.js
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="50" width="50" alt="PostgreSQL"/><br>PostgreSQL
-      </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="50" width="50" alt="Git"/><br>Git
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com?user=Gabriel-Henrique00&theme=radical&hide_border=true" height="160em" />
 </div>
 
 
----
-
-##  Contato
+## Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-henrique00/" target="_blank">
@@ -71,5 +69,3 @@
     <img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
-
----
